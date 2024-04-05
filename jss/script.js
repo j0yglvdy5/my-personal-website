@@ -20,11 +20,5 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
 
-    document.body.addEventListener('mouseover', function() {
-        document.body.style.backgroundColor = 'grey';
-    });
     
-    document.body.addEventListener('mouseout', function() {
-        document.body.style.backgroundColor = '#f4f4f4';
-    });
 });
