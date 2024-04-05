@@ -15,7 +15,7 @@
 
 
 ## Technology Used
-  -This website has mostly used HTMLand a little of CSS and JavaScript.
+  -This website has mostly used HTML and a little of CSS and JavaScript.
 
 ## Known Bugs
   -The image added (/home/joygladys/Development/code/my-personal-website/photos/joygladys.jpeg) may load slowly or fail to load at all.
